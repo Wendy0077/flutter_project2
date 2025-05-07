@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "G20",
+        "brand": "BMW",
+        "coverimage": "https://media.discordapp.net/attachments/552088320310640641/1357374367977177280/cosySec.png?ex=67f14a64&is=67eff8e4&hm=f301a8e4e990a64ab05f8aa63e105070e227c876fea7ec4931c8c38e5df74c41&=&format=webp&quality=lossless&width=825&height=462",
+        "color": "Mineral White metallic",
+        "price": "2000",
+        "detail": "1wwwwwwwwwwwwwwwwwwwwwwww"
+    },
+    {
+        "id": 2,
+        "name": "Yaris ATIV",
+        "brand": "TOYOTA",
+        "coverimage": "https://media.discordapp.net/attachments/552088320310640641/1357373745768960045/AwG0H7NVW2kpAAAAAElFTkSuQmCC.png?ex=67f149cf&is=67eff84f&hm=9110e8febffca694b0790f2c6bb68301ab2f36a993a14672a70794e6e5b18355&=&format=webp&quality=lossless&width=728&height=454",
+        "color": "Urban Metal",
+        "price": "1500",
+        "detail": "2"
+    },
+    {
+        "id": 3,
+        "name": "NETA V II",
+        "brand": "NETA",
+        "coverimage": "https://media.discordapp.net/attachments/552088320310640641/1357375048096420021/20_342degree.png?ex=67f14b06&is=67eff986&hm=e4023248bf3883a7bf277e4719c0ec3c3b2a8fd35c0c4eabecd722a663846b2c&=&format=webp&quality=lossless&width=1322&height=881",
+        "color": "Baby Blue",
+        "price": "3000",
+        "detail": "3"
+    },
+    {
+        "id": 4,
+        "name": "G-Class",
+        "brand": "BENZ",
+        "coverimage": "https://media.discordapp.net/attachments/552088320310640641/1357376709162438697/mercedes-benz-g-class-w465-modeloverview-696x392-03-2024.png?ex=67f14c92&is=67effb12&hm=2315a45147f7b38ea253937efb11b99082839bcadc6dfd0255a49f5a2a9253d0&=&format=webp&quality=lossless&width=766&height=431",
+        "color": "Silver Iridium Metallic",
+        "price": "250",
+        "detail": "4"
+    },
+    {
+        "id": 5,
+        "name": "2.3 VL 2WD 7AT",
+        "brand": "NISSAN",
+        "coverimage": "https://media.discordapp.net/attachments/552088320310640641/1357381049524682945/iris.png?ex=67efff1d&is=67eead9d&hm=e7ad6671507089ad20e8b11d95a4c4e3fb4175b86ade1526c8e08121456f24f0&=&format=webp&quality=lossless&width=1492&height=839",
+        "color": "White Pearl",
+        "price": "1000",
+        "detail": "5"
+    }
+]
